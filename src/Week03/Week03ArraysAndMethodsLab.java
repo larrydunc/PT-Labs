@@ -136,8 +136,8 @@ public class Week03ArraysAndMethodsLab {
 		//			returns the smallest number in the array
 		
 		int[] numbers = new int[5];
-		numbers[0] = 8;
-		numbers[1] = 4;
+		numbers[0] = 9;
+		numbers[1] = 6;
 		numbers[2] = 12;
 		numbers[3] = 2;
 		numbers[4] = 16;
